@@ -22,7 +22,7 @@
     }
   },
   "cloud_list_of_databases": {
-    "name": "Free Redis Cloud DB",
+    "name": "Free trial Redis Cloud DB",
     "host": "Set up in a few clicks"
   },
   "docker": {
