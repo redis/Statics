@@ -746,12 +746,12 @@
   },
   "redisVersion": {
     "id": "redisVersion",
-    "title": "Upgrade your Redis database to version 8.0 or above",
+    "title": "Upgrade your Redis database to version 8 or above",
     "redisStack": true,
     "content": [
       {
         "type": "paragraph",
-        "value": "Upgrade to Redis 8.0 for enhanced security, better resource utilization, and increased stability for your applications."
+        "value": "Upgrade to Redis 8 for enhanced security, better resource utilization, and increased stability for your applications."
       },
       {
         "type": "spacer",
