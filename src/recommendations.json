@@ -42,7 +42,7 @@
   },
   "useSmallerKeys": {
     "id": "useSmallerKeys",
-    "title":"Use smaller keys",
+    "title":"Use smaller key names",
     "content": [
       {
         "type": "paragraph",
