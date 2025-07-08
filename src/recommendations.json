@@ -746,12 +746,12 @@
   },
   "redisVersion": {
     "id": "redisVersion",
-    "title": "Upgrade your Redis database to version 7.4 or above",
+    "title": "Upgrade your Redis database to version 8.0 or above",
     "redisStack": true,
     "content": [
       {
         "type": "paragraph",
-        "value": "Upgrade to Redis 7.4 for enhanced security, better resource utilization, and increased stability for your applications."
+        "value": "Upgrade to Redis 8.0 for enhanced security, better resource utilization, and increased stability for your applications."
       },
       {
         "type": "spacer",
@@ -759,7 +759,7 @@
       },
       {
         "type": "paragraph",
-        "value": "Redis 7.4 also introduces a slew of new features, including field-level expiration commands for hashes and the ability to start reading a stream from the last entry."
+        "value": "Redis 8 is the most performant and scalable version of Redis yet. It has over 30 performance improvements and adds 8 more data structures, including vector set (beta)."
       },
       {
         "type": "spacer",
