@@ -10,7 +10,7 @@
       {
         "type": "code-link",
         "value": {
-          "href": "https://redis.io/docs/latest/commands/script-flush/",
+          "href": "https://redis.io/docs/latest/commands/script-flush/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "SCRIPT FLUSH"
         }
       },
@@ -29,7 +29,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/develop/interact/programmability/",
+          "href": "https://redis.io/docs/latest/develop/programmability/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "documentation"
         }
       },
@@ -59,7 +59,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "documentation"
         }
       },
@@ -73,7 +73,6 @@
   "bigHashes": {
     "id": "bigHashes",
     "title": "Shard big hashes to small hashes",
-    "redisStack": true,
     "tutorialId": "ds-hashes",
     "content": [
       {
@@ -118,7 +117,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
+          "href": "https://redis.io/cloud/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Cloud"
         }
       },
@@ -173,7 +172,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "documentation"
         }
       },
@@ -219,7 +218,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "documentation"
         }
       },
@@ -285,7 +284,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "documentation"
         }
       },
@@ -308,7 +307,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Read more"
         }
       }
@@ -366,7 +365,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "documentation"
         }
       },
@@ -389,7 +388,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/ai/search-and-query/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Query Engine"
         }
       },
@@ -400,8 +399,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
-          "name": "Redis Stack"
+          "href": "https://redis.io/open-source/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Open Source"
         }
       },
       {
@@ -411,7 +410,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
+          "href": "https://redis.io/cloud/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Cloud"
         }
       },
@@ -422,8 +421,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/enterprise/",
-          "name": "Redis Enterprise Software"
+          "href": "https://redis.io/enterprise/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Software"
         }
       },
       {
@@ -500,7 +499,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "documentation"
         }
       },
@@ -515,7 +514,6 @@
     "id": "bigSets",
     "title": "Consider using probabilistic data structures such as Bloom Filter or HyperLogLog",
     "tutorialId": "ds-prob-intro",
-    "redisStack": true,
     "content": [
       {
         "type": "span",
@@ -524,7 +522,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/data-types/probabilistic/bloom-filter/",
+          "href": "https://redis.io/docs/data-types/probabilistic/bloom-filter/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "probabilistic data structures"
         }
       },
@@ -543,8 +541,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
-          "name": "Redis Stack"
+          "href": "https://redis.io/open-source/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Open Source"
         }
       },
       {
@@ -554,7 +552,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
+          "href": "https://redis.io/cloud/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Cloud"
         }
       },
@@ -565,8 +563,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/enterprise/",
-          "name": "Redis Enterprise Software"
+          "href": "https://redis.io/enterprise/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Software"
         }
       },
       {
@@ -603,7 +601,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/develop/connect/clients/",
+          "href": "https://redis.io/docs/latest/develop/connect/clients/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis client’s"
         }
       },
@@ -625,7 +623,7 @@
       {
         "type": "code-link",
         "value": {
-          "href": "https://redis.io/docs/latest/commands/auth/",
+          "href": "https://redis.io/docs/latest/commands/auth/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "AUTH"
         }
       },
@@ -644,7 +642,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/security",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/security/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "documentation"
         }
       },
@@ -658,7 +656,6 @@
   "RTS": {
     "id": "RTS",
     "title":"Try using the Redis native time series data structure and querying capabilities",
-    "redisStack": true,
     "tutorialId": "ds-ts-intro",
     "content": [
       {
@@ -668,7 +665,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/timeseries/",
+          "href": "https://redis.io/timeseries/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "time series capabilities"
         }
       },
@@ -703,8 +700,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
-          "name": "Redis Stack"
+          "href": "https://redis.io/open-source/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Open Source"
         }
       },
       {
@@ -714,7 +711,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
+          "href": "https://redis.io/cloud/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Cloud"
         }
       },
@@ -725,8 +722,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/enterprise/",
-          "name": "Redis Enterprise Software"
+          "href": "https://redis.io/enterprise/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Software"
         }
       },
       {
@@ -747,7 +744,6 @@
   "redisVersion": {
     "id": "redisVersion",
     "title": "Upgrade your Redis database to version 8 or above",
-    "redisStack": true,
     "content": [
       {
         "type": "paragraph",
@@ -772,7 +768,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/try-free/",
+          "href": "https://redis.com/try-free/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Cloud"
         }
       },
@@ -783,7 +779,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/stack/search/",
+          "href": "https://redis.io/docs/latest/develop/ai/search-and-query/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Query Engine"
         }
       },
@@ -794,7 +790,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/stack/json/",
+          "href": "https://redis.io/docs/latest/develop/data-types/json/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "JSON"
         }
       },
@@ -805,7 +801,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/stack/bloom/",
+          "href": "https://redis.io/docs/latest/develop/data-types/probabilistic/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "probabilistic data structures"
         }
       },
@@ -816,7 +812,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/stack/timeseries/",
+          "href": "https://redis.io/docs/latest/develop/data-types/timeseries/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Time Series"
         }
       },
@@ -831,13 +827,12 @@
     "id": "redisSearch",
     "title": "Optimize your query and search experience",
     "deprecated": true,
-    "redisStack": true,
     "tutorialId": "ds-json-intro",
     "content": [
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/ai/search-and-query/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "The Redis Query Engine"
         }
       },
@@ -867,8 +862,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
-          "name": "free Redis Stack database"
+          "href": "https://redis.io/cloud/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "free Redis Open Source database"
         }
       },
       {
@@ -881,7 +876,6 @@
   "searchIndexes": {
     "id": "searchIndexes",
     "title":"Try using the indexing, querying, and full-text search, natively developed in Redis",
-    "redisStack": true,
     "tutorialId": "sq-intro",
     "content": [
       {
@@ -930,7 +924,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/ai/search-and-query/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Query Engine"
         }
       },
@@ -949,8 +943,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
-          "name": "Redis Stack"
+          "href": "https://redis.io/open-source/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Open Source"
         }
       },
       {
@@ -960,7 +954,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
+          "href": "https://redis.io/cloud/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Cloud"
         }
       },
@@ -971,8 +965,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/enterprise/",
-          "name": "Redis Enterprise Software"
+          "href": "https://redis.io/enterprise/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Software"
         }
       },
       {
@@ -982,7 +976,7 @@
       {
         "type": "link",
         "value": {
-          "href": "http://redis.io/docs/latest/operate/oss_and_stack/search/search-active-active",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/stack-with-enterprise/search/search-active-active/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Active-Active setup"
         }
       },
@@ -1004,7 +998,6 @@
   "searchJSON": {
     "id": "searchJSON",
     "title": "Try indexing your JSON documents for efficient data retrieval",
-    "redisStack": true,
     "tutorialId": "sq-intro",
     "content": [
       {
@@ -1014,7 +1007,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/ai/search-and-query/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Query Engine"
         }
       },
@@ -1041,8 +1034,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
-          "name": "Redis Stack"
+          "href": "https://redis.io/open-source/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Open Source"
         }
       },
       {
@@ -1052,7 +1045,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
+          "href": "https://redis.io/cloud/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Cloud"
         }
       },
@@ -1063,8 +1056,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/enterprise/",
-          "name": "Redis Enterprise Software"
+          "href": "https://redis.io/enterprise/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Software"
         }
       },
       {
@@ -1074,7 +1067,7 @@
       {
         "type": "link",
         "value": {
-          "href": "http://redis.io/docs/latest/operate/oss_and_stack/search/search-active-active/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/stack-with-enterprise/search/search-active-active/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Active-Active"
         }
       },
@@ -1095,7 +1088,6 @@
   "stringToJson": {
     "id": "stringToJson",
     "title": "Try using our JSON native document store",
-    "redisStack": true,
     "tutorialId": "ds-json-intro",
     "content": [
       {
@@ -1127,7 +1119,7 @@
             {
               "type": "link",
               "value": {
-                "href": "https://redis.io/docs/latest/develop/data-types/json/path/",
+                "href": "https://redis.io/docs/latest/develop/data-types/json/path/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
                 "name": "JSONPath"
               }
             },
@@ -1156,7 +1148,7 @@
             {
               "type": "link",
               "value": {
-                "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
+                "href": "https://redis.io/docs/latest/develop/ai/search-and-query/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
                 "name": "Redis Query Engine"
               }
             }
@@ -1170,8 +1162,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
-          "name": "Redis Stack"
+          "href": "https://redis.io/open-source/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Open Source"
         }
       },
       {
@@ -1193,7 +1185,7 @@
         "type": "link",
         "value": {
           "href": "https://redis.io/enterprise/",
-          "name": "Redis Enterprise Software"
+          "name": "Redis Software"
         }
       },
       {
@@ -1230,8 +1222,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
-          "name": "Redis Stack"
+          "href": "https://redis.io/open-source/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Open Source"
         }
       },
       {
@@ -1252,7 +1244,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/ai/search-and-query/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "the Redis Query Engine"
         }
       },
@@ -1263,7 +1255,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/timeseries/",
+          "href": "https://redis.io/timeseries/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Time Series"
         }
       },
@@ -1277,7 +1269,6 @@
     "id": "searchHash",
     "title": "Try indexing your hash documents to query and retrieve data",
     "tutorialId": "sq-intro",
-    "redisStack": true,
     "content": [
       {
         "type": "span",
@@ -1306,7 +1297,7 @@
             {
               "type": "link",
               "value": {
-                "href": "https://redis.io/docs/latest/develop/interact/search-and-query/advanced-concepts/aggregations/#apply-expressions/",
+                "href": "https://redis.io/docs/latest/develop/ai/search-and-query/advanced-concepts/aggregations/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
                 "name": "Apply Functions"
               }
             },
@@ -1324,7 +1315,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/ai/search-and-query/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Query Engine"
         }
       },
@@ -1351,8 +1342,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
-          "name": "Redis Stack"
+          "href": "https://redis.io/open-source/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Open Source"
         }
       },
       {
@@ -1362,7 +1353,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
+          "href": "https://redis.io/cloud/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Cloud"
         }
       },
@@ -1373,8 +1364,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/enterprise/",
-          "name": "Redis Enterprise Software"
+          "href": "https://redis.io/enterprise/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Software"
         }
       },
       {
@@ -1384,7 +1375,7 @@
       {
         "type": "link",
         "value": {
-          "href": "http://redis.io/docs/latest/operate/oss_and_stack/search/search-active-active/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/stack-with-enterprise/search/search-active-active/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Active-Active setup"
         }
       },
@@ -1433,8 +1424,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
-          "name": "Redis Stack"
+          "href": "https://redis.io/open-source/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Open Source"
         }
       },
       {
@@ -1444,7 +1435,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
+          "href": "https://redis.io/cloud/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Cloud"
         }
       },
@@ -1455,8 +1446,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/enterprise/",
-          "name": "Redis Enterprise Software"
+          "href": "https://redis.io/enterprise/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Software"
         }
       },
       {
@@ -1504,8 +1495,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
-          "name": "Redis Stack"
+          "href": "https://redis.io/open-source/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Open Source"
         }
       },
       {
@@ -1515,7 +1506,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
+          "href": "https://redis.io/cloud/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Cloud"
         }
       },
@@ -1526,8 +1517,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/enterprise/",
-          "name": "Redis Enterprise Software"
+          "href": "https://redis.io/enterprise/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Software"
         }
       },
       {
@@ -1583,8 +1574,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
-          "name": "Redis Stack"
+          "href": "https://redis.io/open-source/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Open Source"
         }
       },
       {
@@ -1594,7 +1585,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
+          "href": "https://redis.io/cloud/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
           "name": "Redis Cloud"
         }
       },
@@ -1605,8 +1596,8 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/enterprise/",
-          "name": "Redis Enterprise Software"
+          "href": "https://redis.io/software/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
+          "name": "Redis Software"
         }
       },
       {
