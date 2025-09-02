@@ -1127,13 +1127,7 @@
           [
             {
               "type": "span",
-              "value": "selecting and updating elements inside document
-            }
-          ],
-          [
-            {
-              "type": "span",
-              "value": "standards-based merging"
+              "value": "deleting, updating, and adding values to existing JSON documents"
             }
           ],
           [
