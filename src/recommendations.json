@@ -1092,7 +1092,7 @@
     "content": [
       {
         "type": "paragraph",
-        "value": "If you are using strings to store JSON documents, consider using the JSON capabilities."
+        "value": "If you are using strings to store JSON documents, consider using the JSON data structure."
       },
       {
         "type": "spacer",
@@ -1100,7 +1100,7 @@
       },
       {
         "type": "paragraph",
-        "value": "Primary features include:"
+        "value": "It offers:"
       },
       {
         "type": "list",
@@ -1108,13 +1108,13 @@
           [
             {
               "type": "span",
-              "value": "full support for the JSON standard"
+              "value": "full JSON standard support"
             }
           ],
           [
             {
               "type": "span",
-              "value": "a "
+              "value": "atomic updates with "
             },
             {
               "type": "link",
@@ -1122,28 +1122,18 @@
                 "href": "https://redis.io/docs/latest/develop/data-types/json/path/?utm_source=redisinsight&utm_medium=app&utm_campaign=tips",
                 "name": "JSONPath"
               }
-            },
-            {
-              "type": "span",
-              "value": " syntax for selecting/updating elements inside documents"
             }
           ],
           [
             {
               "type": "span",
-              "value": "documents are stored as binary data in a tree structure, allowing fast access to sub-elements"
+              "value": "deleting, updating, and adding values to existing JSON documents"
             }
           ],
           [
             {
               "type": "span",
-              "value": "typed atomic operations for all JSON value types"
-            }
-          ],
-          [
-            {
-              "type": "span",
-              "value": "secondary indexing via the "
+              "value": "querying via the"
             },
             {
               "type": "link",
@@ -1198,7 +1188,7 @@
       },
       {
         "type": "paragraph",
-        "value": "Try the interactive tutorial to learn how to work with index and query documents modeled with JSON."
+        "value": "Try the interactive tutorial to learn how to use indexes and query JSON documents."
       }
     ]
   },
