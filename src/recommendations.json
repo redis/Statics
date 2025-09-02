@@ -1188,7 +1188,7 @@
       },
       {
         "type": "paragraph",
-        "value": "Try the interactive tutorial to learn how to work with index and query documents modeled with JSON."
+        "value": "Try the interactive tutorial to learn how to use indexes and query JSON documents."
       }
     ]
   },
